@@ -9,3 +9,4 @@
 9.Practice chess openings
 10.solve cchess puzzles.
 11.Problem solving
+10.solve cchess puzzles.
